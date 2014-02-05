@@ -44,7 +44,7 @@
 - [Beauty Body Wellness](http://beautybodywellness.com/) - Static
 - [Fortney Contractors](http://fortneycontractors.com/)
 - [Collier Kaleidoscopes](http://www.collierkaleidoscopes.com/) - Static
-- [McCoy Millwork - Static](http://www.mccoymillwork.com/)
+- [McCoy Millwork](http://www.mccoymillwork.com/) - Static
 - [Carpool Goddess](http://www.carpoolgoddess.com/)
 - [Exceed Builders](http://www.exceedbuilders.com/) - Static
 - [Dr. Rosedale Blog](http://drrosedale.com/blog/)
