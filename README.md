@@ -36,6 +36,7 @@
 - [Assist U2 Build](http://au2b.com/)
 - [Printing By Design](http://www.pbdink.com/) - Static + WP Blog, Mobile
 - [Hammerhead Aviation](http://hammerheadaviation.com/)
+- [Paul Gerald](http://paulgerald.com/)
 - [Local Dating SD](http://localdatingsandiego.com/)
 - [Icings Glass](http://www.icingsglass.com/) - Static
 - [Hawaii On Foot](http://hawaiionfoot.com/)
