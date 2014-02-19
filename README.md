@@ -3,8 +3,8 @@
 **Built on WordPress Unless Specified**  
 **Ordered Roughly By Je Ne Sais Quoi (Descending)**
 
-- [OTW (behind login wall)](http://otw.jaimemiller.com/) - My Design, Membership, Wishlist Integration
-- [Spectralink (behind login wall)](http://partneraccess.spectralink.com/) - Drupal, Membership
+- [OTW](http://otw.jaimemiller.com/) (behind login wall) - My Design, Membership, Wishlist Integration
+- [Spectralink](http://partneraccess.spectralink.com/) (behind login wall) - Drupal, Membership
 - [Fish Sauce](http://fishsaucepdx.com/) - My Design, Static, Responsive
 - [PDX Gardens](http://pdxgardens.com/) - Static
 - [Prentiss Architects](http://www.prentissarchitects.com/) - Static
