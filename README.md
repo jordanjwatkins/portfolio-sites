@@ -40,7 +40,7 @@
 - [Local Dating SD](http://localdatingsandiego.com/)
 - [Icings Glass](http://www.icingsglass.com/) - Static
 - [Hawaii On Foot](http://hawaiionfoot.com/)
-- [Morning Dew Landscaping](http://morningdewlandscape.com/)
+- [Morning Dew Landscaping](http://morningdewlandscape.com/wordpress/)
 - [Beauty Body Wellness](http://beautybodywellness.com/) - Static
 - [Fortney Contractors](http://fortneycontractors.com/)
 - [Collier Kaleidoscopes](http://www.collierkaleidoscopes.com/) - Static
