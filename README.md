@@ -12,7 +12,7 @@
 - [Norvise](http://norvise.com/) - Ecommerce
 - [Pangea Pal](http://pangeapal.com/) - CodeIgniter, Ecommerce
 - [Chocolate Sun](http://chocolatesun.com/) - Joomla, Ecommerce
-- [EnviroFinance Group / Sloans](http://www.envirofinancegroup.com/) - Multi-site theme
+- [EnviroFinance Group](http://www.envirofinancegroup.com/) / [Sloans](http://sloansdenver.com/) - Multi-site theme
 - [coolphotomsgs](http://www.coolphotomsgs.com/) - Custom Image Creation App
 - [Rock N Gold](http://rockngold.com/)
 - [TSC Restoration](http://tscrestoration.com/) - Includes Mobile Site
