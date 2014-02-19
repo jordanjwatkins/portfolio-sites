@@ -16,7 +16,6 @@
 - [coolphotomsgs](http://www.coolphotomsgs.com/) - Custom Image Creation App
 - [Rock N Gold](http://rockngold.com/)
 - [TSC Restoration](http://tscrestoration.com/) - Includes Mobile Site
-- [Bajaa Art](http://bajaart.com/)
 - [Movie Madness Video](http://moviemadnessvideo.com/)
 - [Nova Travel](http://www.novatravel.com/index.php) - Static + WP Blog, Flight Search Integration,  Mobile Site
 - [52 Perfect Days](http://www.52perfectdays.com/)
@@ -28,6 +27,7 @@
 - [ZD Landing Pages](http://blogs.zddesign.net/)
 - [Inner Gate Acupuncture](http://innergateacupuncture.com/) - Concrete 5
 - [Quit Chewing Tobacco](http://quitchewingtobacco.com/)
+- [Bajaa Art](http://bajaart.com/)
 - [Last Call For Caviar](http://www.lastcallforcaviar.com/)
 - [Crescent Design](http://www.crescentdesign.com/)
 - [Deschner](http://deschner.com/)
