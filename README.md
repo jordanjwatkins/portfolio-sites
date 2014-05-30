@@ -3,12 +3,15 @@
 **Built on WordPress Unless Specified**  
 **Ordered Roughly By Je Ne Sais Quoi (Descending)**
 
+- [KDi](http://kdi-americas.cm)
+- [AMD](http://amd.lamvin.com/)
+- [IJC Development](http://www.ijcdevelopment.com/)
 - [OTW](http://otw.jaimemiller.com/) (behind login wall) - My Design, Membership, Wishlist Integration
 - [Spectralink](http://partneraccess.spectralink.com/) (behind login wall) - Drupal, Membership
 - [Fish Sauce](http://fishsaucepdx.com/) - My Design, Static, Responsive
 - [PDX Gardens](http://pdxgardens.com/) - Static
 - [Prentiss Architects](http://www.prentissarchitects.com/) - Static
-- [Beverly Hills Brownie Company](http://beverlyhillsbrownie.com/) - Joomla, CodeIgniter (Custom Order App)
+- [Beverly Hills Brownie Company](http://beverlyhillsbrownie.com/) - WordPress + CodeIgniter (Custom Order App)
 - [Norvise](http://norvise.com/) - Ecommerce
 - [Pangea Pal](http://pangeapal.com/) - CodeIgniter, Ecommerce
 - [Chocolate Sun](http://chocolatesun.com/) - Joomla, Ecommerce
