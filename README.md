@@ -3,7 +3,7 @@
 **Built on WordPress Unless Specified**  
 **Ordered Roughly By Je Ne Sais Quoi (Descending)**
 
-- [KDi](http://kdi-americas.cm)
+- [KDi](http://kdi-americas.com)
 - [AMD](http://amd.lamvin.com/)
 - [IJC Development](http://www.ijcdevelopment.com/)
 - [OTW](http://otw.jaimemiller.com/) (behind login wall) - My Design, Membership, Wishlist Integration
