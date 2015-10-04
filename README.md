@@ -3,7 +3,7 @@
 **Built on WordPress Unless Specified**  
 **Ordered Roughly By Je Ne Sais Quoi (Descending)**
 
-- [Amazon Payments](https://payments.amazon.com/home)
+- [Amazon Payments](https://payments.amazon.com/home) - JRuby on Rails
 - [KDi](http://kdi-americas.com)
 - [AMD](http://amd.lamvin.com/)
 - [IJC Development](http://www.ijcdevelopment.com/)
