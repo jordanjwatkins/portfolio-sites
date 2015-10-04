@@ -7,7 +7,7 @@
 - [KDi](http://kdi-americas.com)
 - [AMD](http://amd.lamvin.com/)
 - [IJC Development](http://www.ijcdevelopment.com/)
-- [OTW](http://otw.jaimemiller.com/) (behind login wall) - My Design, Membership, Wishlist Integration
+- [OTW](http://otw.jaimemiller.com/) (behind login wall) - Created Design, Membership, Wishlist Integration
 - [Spectralink](http://partneraccess.spectralink.com/) (behind login wall) - Drupal, Membership
 - [Fish Sauce](http://fishsaucepdx.com/) - My Design, Static, Responsive
 - [PDX Gardens](http://pdxgardens.com/) - Static
