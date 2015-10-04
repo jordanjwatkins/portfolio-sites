@@ -3,6 +3,7 @@
 **Built on WordPress Unless Specified**  
 **Ordered Roughly By Je Ne Sais Quoi (Descending)**
 
+- [Amazon Payments](https://payments.amazon.com/home)
 - [KDi](http://kdi-americas.com)
 - [AMD](http://amd.lamvin.com/)
 - [IJC Development](http://www.ijcdevelopment.com/)
@@ -48,7 +49,6 @@
 - [Collier Kaleidoscopes](http://www.collierkaleidoscopes.com/) - Static
 - [McCoy Millwork](http://www.mccoymillwork.com/) - Static
 - [Carpool Goddess](http://www.carpoolgoddess.com/)
-- [Exceed Builders](http://www.exceedbuilders.com/) - Static
 - [Dr. Rosedale Blog](http://drrosedale.com/blog/)
 - [Pat Garrett For Sheriff](http://www.patgarrettforsheriff.com/)
 
