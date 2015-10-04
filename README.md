@@ -29,7 +29,7 @@
 - [Investors Live](http://investorslive.com/) - aMember Integration
 - [SEM San Diego](http://www.semsandiego.com/)
 - [ZD Landing Pages](http://blogs.zddesign.net/)
-- [Inner Gate Acupuncture](http://innergateacupuncture.com/) - Concrete 5
+- [Inner Gate Acupuncture](http://www.innergateacupuncture.com/) - Concrete 5
 - [Quit Chewing Tobacco](http://quitchewingtobacco.com/)
 - [Bajaa Art](http://bajaart.com/)
 - [Last Call For Caviar](http://www.lastcallforcaviar.com/)
